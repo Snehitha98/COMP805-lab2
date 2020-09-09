@@ -4,7 +4,7 @@
   - Accept **lab2** GitHub Classroom&#39;s 
 
   - Complete coding activities in the reading on your local machine
-      - Introduction (optional for your benefit read through it)
+    - Reading/coding activities in Django Crash Course textbook:
       - 9 Prepping the Project for Templates
       - 10 Add a Simple Homepage View
       - 11 Create Our First Django Template
